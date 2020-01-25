@@ -1,0 +1,51 @@
+﻿<Controls:MetroWindow x:Class="AudioVideoParcerVk.MainWindow" xmlns:Skins="clr-namespace:AudioVideoParcerVk.Skins"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.galasoft.ch/ignore"
+        mc:Ignorable="d ignore"
+        Height="978.697"
+        Width="1200"
+        ResizeMode ="CanMinimize"
+        Title="Media Target VK v 0.2" Icon="Resources/vk-icon.png"
+        DataContext="{Binding Main, Source={StaticResource Locator}}">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="21,67,0,0" TextWrapping="Wrap" Text="{Binding Login}" VerticalAlignment="Top" Width="195"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="228,67,0,0" TextWrapping="Wrap" Text="{Binding Password}" VerticalAlignment="Top" Width="195"/>
+        <Button Content="Авторизация" Command="{Binding Auth}" HorizontalAlignment="Left" Margin="428,67,0,0" VerticalAlignment="Top" Width="107"/>
+        <Controls:MetroProgressBar IsIndeterminate="{Binding ProgressBarBool}" Visibility="{Binding ProgressBarVisible}" Height="34" Margin="781,58,10,859" />
+        <TabControl Margin="10,92,10,0" Height="742" VerticalAlignment="Top">
+            <TabItem Header="Audio">
+                <Grid Background="#FFE5E5E5">
+                    <Skins:AudioView Height="693" Margin="0,-27,0,27" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Video">
+                <Grid Background="#FFE5E5E5">
+                    <Skins:VideoView Margin="0,-27,0,27" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="News">
+                <Grid Background="#FFE5E5E5">
+                    <Skins:NewsView Margin="0,-27,0,27" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Groups">
+                <Grid Background="#FFE5E5E5">
+                    <Skins:GroupsView Margin="0,-27,0,27" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Search Groups">
+                <Grid Background="#FFE5E5E5">
+                    <Skins:SearchGroupsView Margin="0,-27,0,27" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <TextBox Margin="10,854,20,0" TextWrapping="Wrap" Text="{Binding OutPutText}" Height="90" VerticalAlignment="Top"/>
+        <Label Content="Log:" HorizontalAlignment="Left" Margin="10,828,0,95"/>
+        <Label Content="Login:" HorizontalAlignment="Left" Margin="21,40,0,0" Width="81" Height="27" VerticalAlignment="Top"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Margin="228,40,0,0" Width="81" Height="27" VerticalAlignment="Top"/>
+    </Grid>
+</Controls:MetroWindow>

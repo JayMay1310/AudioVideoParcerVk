@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="AudioVideoParcerVk.Skins.SearchGroupsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" 
+             xmlns:local="clr-namespace:AudioVideoParcerVk.ViewModel"
+             mc:Ignorable="d" 
+             DataContext="{Binding SearchGroups, Source={StaticResource Locator}}">
+    <Grid Margin="0,-62,0,0" Height="653" VerticalAlignment="Bottom">
+        <GroupBox Header="Идентификатор или короткое имя сообщества" IsEnabled="{Binding GroupBoxOneIsEnabled}" Margin="0,0,0,550" HorizontalAlignment="Left" Width="734" Grid.ColumnSpan="2">
+            <Grid>
+                <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding SearchGroups}" VerticalAlignment="Top" Width="506" Margin="10,10,0,0"/>
+                <Button Content="Получить данные" Command="{Binding GetSearchValue}" IsEnabled="{Binding Active}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="119" Margin="521,10,0,0"/>
+                <Button Content="Stop" Command="{Binding StopGetValue}" HorizontalAlignment="Left" Margin="645,10,0,0" VerticalAlignment="Top" Width="75"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</UserControl>

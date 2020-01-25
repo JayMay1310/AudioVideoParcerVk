@@ -1,0 +1,137 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\MainWindow.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\AudioView.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\GroupsView.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\NewsView.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\VideoView.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\App.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk_MarkupCompile.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk_MarkupCompile.lref
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.exe.CodeAnalysisLog.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.exe.lastcodeanalysissucceeded
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\HtmlAgilityPack.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\KBCsv.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\MahApps.Metro.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\VkNet.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\HtmlAgilityPack.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\KBCsv.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\MahApps.Metro.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\MahApps.Metro.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\VkNet.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\VkNet.xml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\App.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\MainWindow.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\AudioView.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\GroupsView.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\NewsView.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\VideoView.baml
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.g.resources
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.Properties.Resources.resources
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.csproj.GenerateResource.Cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.exe.licenses
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\SearchGroupsView.g.cs
+C:\Users\root\Documents\Visual Studio 2015\Projects\AudioVideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\SearchGroupsView.baml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.exe.config
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.exe
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.pdb
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.exe
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.pdb
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.exe.CodeAnalysisLog.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\AudioVideoParcerVk.exe.lastcodeanalysissucceeded
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\KBCsv.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\MahApps.Metro.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\VkNet.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\KBCsv.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\MahApps.Metro.pdb
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\MahApps.Metro.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.Data.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.GridView.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Controls.Input.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\Telerik.Windows.Data.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\VkNet.pdb
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\VkNet.xml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.csprojResolveAssemblyReference.cache
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\MainWindow.g.cs
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\AudioView.g.cs
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\GroupsView.g.cs
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\NewsView.g.cs
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\SearchGroupsView.g.cs
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\VideoView.g.cs
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\App.g.cs
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk_MarkupCompile.cache
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk_MarkupCompile.lref
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\App.baml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\MainWindow.baml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\AudioView.baml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\GroupsView.baml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\NewsView.baml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\SearchGroupsView.baml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\Skins\VideoView.baml
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.g.resources
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.Properties.Resources.resources
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.csproj.GenerateResource.Cache
+D:\Projects\VideoParcerVk\AudioVideoParcerVk\obj\Debug\AudioVideoParcerVk.exe.licenses
